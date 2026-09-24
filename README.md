@@ -156,7 +156,7 @@ VidNova
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yashKanzariya876/VidNova.git
+https://github.com/YashKhokhaliya/VidNova.git
 cd VidNova
 ```
 
